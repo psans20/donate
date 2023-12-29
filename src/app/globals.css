@@ -17,11 +17,11 @@
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  background-image: linear-gradient(to bottom, #00a440, #00806e, #00586f, #0e3046, #111111);
+  height: 100%; 
+  overflow: hidden;
+}
+
+button {
+  background-image: linear-gradient(to bottom, #2a2a2a, #242424, #1e1e1e, #181818, #111111);
 }
