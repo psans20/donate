@@ -19,7 +19,7 @@ export default function Body(){
 
 
     return(
-        <div className="flex flex-col h-screen w-screen items-center justify-evenly p-10">
+        <div className="flex flex-col h-screen items-center justify-evenly p-8">
             <h2 className="text-center text-white md:text-lg">Help me reach my goal of becoming a millionaire before 2026</h2>
         <img src="https://cdn.pixabay.com/animation/2023/03/23/17/00/17-00-52-997_512.gif" className="w-48 md:w-72"/>
 
@@ -39,7 +39,7 @@ export default function Body(){
 
 </div>
 
-<button className="w-full rounded-lg bg-cyan-300 md:container md:mx-auto md:w-96 py-3 text-xl font-semibold hover:bg-cyan-400 text-gray-200">
+<button className="w-full md:container md:mx-auto md:w-96 py-3 text-xl font-semibold text-gray-200">
   <span>Donate</span>
 </button>
 

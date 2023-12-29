@@ -25,7 +25,7 @@ export default function Navbar() {
   return (
     <nav className="flex-col space-y-4 justify-around items-center p-4 font-mono">
       <h2 className="text-white font-semibold text-xl md:text-2xl md:font-bold text-center">
-        £{formatNumber(donation)} / 1,000,000 Raised
+        £{formatNumber(donation)} / 1,000,000
       </h2>
 
       <div className="w-full md:w-3/4 container mx-auto bg-gray-200 rounded-full h-2.5 md:h-3.5">
