@@ -4,7 +4,7 @@ import Body from './components/Body'
 
 export default function Home() {
   return (
-    <main className="">
+    <main className="overflow-hidden">
 <Navbar/>
 <Body/>
     </main>

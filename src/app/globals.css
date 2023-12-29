@@ -18,8 +18,6 @@
 
 body {
   background-image: linear-gradient(to bottom, #00a440, #00806e, #00586f, #0e3046, #111111);
-  height: 100%; 
-  overflow: hidden;
 }
 
 button {
