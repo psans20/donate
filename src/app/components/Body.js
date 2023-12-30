@@ -20,7 +20,7 @@ export default function Body(){
 
     return(
         <div className="flex flex-col h-screen items-center justify-evenly p-8">
-            <h2 className="text-center text-white md:text-lg">Help me reach my goal of becoming a millionaire before 2026</h2>
+            <h2 className="text-center text-white md:text-lg">Help me afford my first Lamborghini</h2>
         <img src="https://cdn.pixabay.com/animation/2023/03/23/17/00/17-00-52-997_512.gif" className="w-48 md:w-72"/>
 
 
